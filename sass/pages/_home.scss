@@ -1,0 +1,47 @@
+.section-awards {
+    padding: 9.5rem;
+    background-color:$color-dark;
+    color: $color-light;
+    text-align: center;
+}
+
+.section-testimonial {
+    padding: 9.5rem 0;
+    position: relative;
+}
+
+
+.section-choose {
+    padding: 5.5rem 0;
+    background-color: rgba($color-primary-light, .3);
+    text-align: center;
+}
+
+.section-offer {
+    text-align: center;
+    background-color: rgba($color-grey-light-2, .3);
+    padding: 9.5rem 0;
+    
+}
+
+.section-herd {
+    text-align: center;
+    background-color:rgba( $color-grey-dark, .5);
+    padding: 9.5rem 0;
+
+}
+
+
+.section-price {
+    background-color: rgba($color-grey-light-2, .7);
+    padding: 9.5rem 0 ;
+    text-align: center;
+}
+
+.section-CEO {
+    text-align: center;
+    background-color:rgba( $color-grey-dark, .5);
+    padding: 9.5rem 0;
+    
+
+}

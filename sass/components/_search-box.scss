@@ -1,0 +1,18 @@
+.search-box {
+    position: relative;
+
+    &__input {
+        height: 5rem;
+        padding: 1rem;
+        border-radius: 2.5rem;
+        outline: none;
+        width: 30rem;
+        font-family: $header-fonts;
+        text-transform: uppercase;
+        font-weight: 700;
+
+       
+    }
+    
+
+}

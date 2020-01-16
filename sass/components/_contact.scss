@@ -1,0 +1,20 @@
+.form-group {
+    margin: 1rem;
+    font-family: $body-fonts;
+}
+
+.form-group input {
+    padding: 2rem;
+    width: 500px;
+    box-shadow: $box-shadow;
+}
+
+.form-group textarea {
+    width: 50rem;
+    box-shadow: $box-shadow;
+}
+
+.form-group-btn {
+    width: 50rem;
+    
+}

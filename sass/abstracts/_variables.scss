@@ -1,0 +1,27 @@
+//FONT FAMILY
+$header-fonts: 'Roboto', sans-serif;
+$body-fonts: 'Lato', sans-serif;
+$logo-font: 'Permanent Marker', cursive;
+
+//COLORS
+$color-primary-dark: #5f4b8bff;
+$color-primary-light: #e69a8dff;
+
+$color-light: #f1f3ffff;
+$color-dark: #a9a9a9;
+$color-grey-dark: #333;
+$color-grey-light-2: #eee;
+
+$color-black: #000;
+$color-white: #fff;
+
+//BOX SHADOW
+$box-shadow: 0 1.5rem 4rem rgba($color-black, .15);
+
+//FONT-SIZE
+$default-font-size: 1.6rem;
+
+//Grid
+$grid-width: 114rem;
+$gutter-vertical:8rem;
+$gutter-horizontal:6rem;

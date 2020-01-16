@@ -1,0 +1,105 @@
+.employee-box {
+
+    &__employee-image {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        background-image: url(/css/img_css/ceo.jpg);
+        background-size: cover;
+        margin: 0 auto;
+        box-shadow: $box-shadow;
+
+        &--1 {
+
+
+            background-image: url(/css/img_css/employees/jim_employee1.jpeg);
+
+        }
+
+        &--2 {
+
+
+            background-image: url(/css/img_css/employees/dwight_employee2.jpg);
+
+        }
+
+        &--3 {
+
+
+            background-image: url(/css/img_css/employees/pam-employee3.jpg);
+
+        }
+
+        &--4 {
+
+
+            background-image: url(/css/img_css/employees/angela_employee4.jpg);
+
+        }
+
+        &--5 {
+
+
+            background-image: url(/css/img_css/employees/Kelly_employee5.jpg);
+
+        }
+
+        &--6 {
+
+
+            background-image: url(/css/img_css/employees/ryan_employee6.jpg);
+
+        }
+
+        &--7 {
+
+            background-image: url(/css/img_css/employees/kevin_employee7.jpg);
+
+            
+        }
+
+        &--8 {
+
+
+            background-image: url(/css/img_css/employees/phyllis_employee8.jpg);
+
+        }
+
+        &--9 {
+
+
+            background-image: url(/css/img_css/employees/Stanley_employee9.jpg);
+
+        }
+
+        &--10 {
+
+
+            background-image: url(/css/img_css/employees/oscar_employee10.jpg);
+
+        }
+
+        &--11 {
+
+
+            background-image: url(/css/img_css/employees/Toby_Flenderson_employee11.jpg);
+
+        }
+
+        &--12 {
+
+
+            background-image: url(/css/img_css/employees/CreedBratton_employee12.jpg);
+
+        }
+        
+    }
+
+    
+}
+
+.employee__title {
+    color: $color-white;
+    font-family: $body-fonts;
+    font-size: 2.4rem;
+}

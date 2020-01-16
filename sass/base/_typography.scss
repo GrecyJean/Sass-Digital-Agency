@@ -1,0 +1,93 @@
+body {
+    font-family: $body-fonts;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: $color-dark;
+   
+}
+
+.heading-primary {
+    color: $color-light;
+    text-transform: uppercase;
+    font-size: 4rem;
+    font-family: $header-fonts;
+    letter-spacing: 3px;
+    font-weight: 200;
+    animation: moveInRight 1s ease-out;
+    box-shadow: $box-shadow;
+   
+   
+}
+
+.heading-secondary {
+    font-size: 4.5rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    display: inline-block;
+    background-image: linear-gradient(to right, $color-primary-dark, $color-primary-light);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    letter-spacing: 2px;
+    transition: all .2s;
+
+    &:hover {
+        transform: skewY(2deg) skewX(15deg) scale(1.1);
+        text-shadow: .5rem 1rem 2rem rgba($color-black, .2);
+    }
+
+}
+
+.paragraph-box {
+
+    &__--p1 {
+        font-family: $body-fonts;
+        font-size: 2.4rem;
+        color: $color-white;
+        padding: 2rem;
+        margin-right: 4.5rem;
+    }
+
+    &__--lead-paragraph {
+        font-size: 2.4rem;
+        font-family: $body-fonts;
+        line-height: 1.8;
+        text-transform: uppercase;
+    }
+
+    &__--text {
+        font-size: 1.8rem;
+        font-family: $body-fonts;
+        padding: 3rem;
+        
+    }
+}
+
+.bullseye-box {
+
+    &__icon {
+        font-size: 15rem;
+        color: #36454f;
+        
+    }
+
+    &__text {
+        font-size: 2.4rem;
+        font-weight: 700;
+        color: #36454f;
+        font-family: $body-fonts;
+    }
+}
+
+.warning {
+    font-weight: 700;
+    color: red;
+    font-family: $body-fonts;
+
+}
+
+.contact__text {
+    font-size: 2.4rem;
+}
+

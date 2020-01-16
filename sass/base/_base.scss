@@ -1,0 +1,48 @@
+//RESET
+*,
+*::after,
+::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+
+    .header__text-box {
+        position: absolute;
+        top: 40%;
+        right: 23%;
+        translate: (-50%, -50%);
+        text-align: center;
+    }
+
+    .card {
+        overflow: hidden;
+        height: 150rem;
+    }
+
+    .section-price {
+        background-color: rgba($color-grey-light-2, .7);
+        padding: 12.5rem;
+        text-align: center;
+    }
+
+}
+
+@media (min-width: 2000px) {
+    .header__text-box {
+       margin: auto;
+       margin-left: 15%;
+    }
+
+    
+}
