@@ -294,34 +294,34 @@ body {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  background-image: url(/css/img_css/ceo.jpg);
+  background-image: url(../img/ceo.jpg);
   background-size: cover;
   margin: 0 auto;
   box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15); }
   .employee-box__employee-image--1 {
-    background-image: url(/css/img_css/employees/jim_employee1.jpeg); }
+    background-image: url(../img/em1.jpg); }
   .employee-box__employee-image--2 {
-    background-image: url(/css/img_css/employees/dwight_employee2.jpg); }
+    background-image: url(../img/em2.jpg); }
   .employee-box__employee-image--3 {
-    background-image: url(/css/img_css/employees/pam-employee3.jpg); }
+    background-image: url(../img/em3.jpg); }
   .employee-box__employee-image--4 {
-    background-image: url(/css/img_css/employees/angela_employee4.jpg); }
+    background-image: url(../img/em4.jpg); }
   .employee-box__employee-image--5 {
-    background-image: url(/css/img_css/employees/Kelly_employee5.jpg); }
+    background-image: url(../img/em5.jpg); }
   .employee-box__employee-image--6 {
-    background-image: url(/css/img_css/employees/ryan_employee6.jpg); }
+    background-image: url(../img/em6.jpg); }
   .employee-box__employee-image--7 {
-    background-image: url(/css/img_css/employees/kevin_employee7.jpg); }
+    background-image: url(../img/em7.jpg); }
   .employee-box__employee-image--8 {
-    background-image: url(/css/img_css/employees/phyllis_employee8.jpg); }
+    background-image: url(../img/em8.jpg); }
   .employee-box__employee-image--9 {
-    background-image: url(/css/img_css/employees/Stanley_employee9.jpg); }
+    background-image: url(../img/em9.jpg); }
   .employee-box__employee-image--10 {
-    background-image: url(/css/img_css/employees/oscar_employee10.jpg); }
+    background-image: url(../img/em10.jpg); }
   .employee-box__employee-image--11 {
-    background-image: url(/css/img_css/employees/Toby_Flenderson_employee11.jpg); }
+    background-image: url(../img/em11.jpg); }
   .employee-box__employee-image--12 {
-    background-image: url(/css/img_css/employees/CreedBratton_employee12.jpg); }
+    background-image: url(../img/em12.jpg); }
 
 .employee__title {
   color: #fff;
